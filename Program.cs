@@ -9,6 +9,7 @@ namespace printtriangle
             Console.WriteLine("Q1 : Enter the number of rows for the traingle:");
             string n = Console.ReadLine();
             Console.Write(n);
+            Console.ReadLine();
         }
     }
 }
